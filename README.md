@@ -1,8 +1,8 @@
 
 ### Seja bem vindo!
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrckreis&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrckreis&hide=prs,issues&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenowii&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenowii&hide=prs,issues&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
 
